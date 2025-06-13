@@ -12,7 +12,7 @@ const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 
 const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
 // API key
-const API_KEY = 'c40ba5eeb25fd0e5e74d266568ec8bde';
+const API_KEY = 'enter api';
 
 // Update time and date every second
 setInterval(() => {
